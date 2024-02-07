@@ -3,8 +3,8 @@
     "Address": "mongo-db",
     "Port": 27017,
     "DatabaseName": "BRISE_db",
-    "DatabaseUser": "user",
-    "DatabasePass": "yourPassword"
+    "DatabaseUser": "amin",
+    "DatabasePass": "QUk4TTss4qSMapIL"
   },
   "EventService": {
     "Address": "event_service",
